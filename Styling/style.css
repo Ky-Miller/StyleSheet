@@ -1,0 +1,25 @@
+H1{
+    background-color: black;
+    color: white;
+    font-style: normal;
+    font-size: 50px;
+    margin-bottom: -15px;
+}
+span{
+    color: aqua;
+}
+h2{
+    text-align: center;
+    background-color:rebeccapurple;
+    color: white;
+    font-style: italic;
+    font-size: 30px;
+    margin-bottom: -15px;
+}
+h3{
+    text-align: end;
+    background-color: rgb(96, 66, 246);
+    color: rgb(8, 8, 32);
+    text-decoration: underline;
+    font-size: 25px;
+}
